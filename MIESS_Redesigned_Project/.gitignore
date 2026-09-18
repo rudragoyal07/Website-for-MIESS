@@ -1,0 +1,22 @@
+# Generated website and preview
+/dist/
+/OPEN-PREVIEW.html
+
+# Generated checks and preview images
+/verification/
+
+# Dependencies, if added later
+node_modules/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs and ZIP archives
+*.log
+*.zip
+
+# Operating-system files
+.DS_Store
+Thumbs.db
